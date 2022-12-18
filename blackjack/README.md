@@ -17,8 +17,7 @@ Project Languages:
 - HTML
 - CSS
 
-Project Replit:
-- https://replit.com/@Meg-Div/Blackjack-21
-
-Project Blogs:
-- https://dev.to/megdiv/forever-21-268m
+Links:
+- [GitHub](https://github.com/Meg-Div/DigitalCraftsProjects/tree/main/blackjack)
+- [Dev.to blog](https://dev.to/megdiv/forever-21-268m)
+- [Replit](https://replit.com/@Meg-Div/Blackjack-21)

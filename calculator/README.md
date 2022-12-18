@@ -10,14 +10,12 @@ Project Expectations:
 - Add an event listener on click
 - Calculate clicked numbers
 
-Project Language: 
+Project Languages: 
 - Javascript
 - HTML
 - CSS
 
-Project Replit:
-(With slight change for readability)
-- https://replit.com/@Meg-Div/Calculator#calculator.js
-
-Project Blogs:
-- https://dev.to/megdiv/you-can-count-on-me-534j
+Links:
+- [GitHub](https://github.com/Meg-Div/DigitalCraftsProjects/tree/main/calculator)
+- [Dev.to blog](https://dev.to/megdiv/you-can-count-on-me-534j)
+- [Replit](https://replit.com/@Meg-Div/Calculator#calculator.js)

@@ -13,12 +13,10 @@ Project Expectations:
 - Write a medium article
 - Write a ReadMe 
 
-Project Language: 
+Project Languages: 
 - Python
 
-Project Replit:
-- https://replit.com/@Meg-Div/Thats-A-Hat#main.py
-
-Project Blogs:
-- https://medium.com/@meg_d/thats-a-hat-97a93c3ea0a8
-- https://dev.to/megdiv/thats-a-hat-57gn
+Links:
+- [GitHub](https://github.com/Meg-Div/DigitalCraftsProjects/tree/main/rpg-game)
+- [Dev.to blog](https://dev.to/megdiv/thats-a-hat-57gn)
+- [Replit](https://replit.com/@Meg-Div/Thats-A-Hat#main.py)
