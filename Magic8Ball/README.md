@@ -2,10 +2,11 @@
 # Magic8Ball
 
 Project Description: 
-- Re-create a Magic 8 Ball
+- Originally created for my COMSC-200 course, I refactored my code to align more closely with the original Magic 8 Ball game.
 
 Project Expectations:
-- Shake ball for random response to question
+-  You're asked to shake the ball.
+-  A random response is given back to you.
 
 Project Languages: 
 - C++
