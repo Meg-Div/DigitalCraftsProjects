@@ -13,5 +13,5 @@ Project Languages:
 
 Links:
 - [GitHub](https://github.com/Meg-Div/DigitalCraftsProjects/tree/main/Magic8Ball)
-- [Dev.to blog](https://dev.to/megdiv/magic-8-ball-2p2hj)
+- [Dev.to blog](https://dev.to/megdiv/magic-8-ball-2p2h)
 - [Replit](https://replit.com/@Meg-Div/Magic-8-Ball#main.cpp)
